@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
-  const token = "EAAJYYaDXZBpEBO1DUbiZBCKizV2ROd3KU2l7uXSdNvH3t8QmAZBCAfZBmZAS3DLLiZCI9yItZCz7PhjOZANovJdgdM47zQJOdrEDyD7ZCJKlUlsDNMY6EojAe7nxi3dN9UIWaixuriCZAcSZC5HmPgm68T72TGZA2h4RSVZADtB6DUoGeZCbZAwPvlU4sxtyhUSQYQF16ZC0iAZDZD";
-  const pixelId = "SEU_PIXEL_ID"; // substitua aqui com seu pixel ID
+  const token = "EAAJYYaDXZBpEBOZBdBiqFZAbtZB82ZCUZClARdCJfjF9XT2qbRBlaNe865ZB8mGPFbZCB9YbZAgYZCVDKAstlMe2JyZCb9zMfb5KmXbm9m2k4peG7ZBqhT1IWbuMc5sZCnAx8HYt1LixyO0M8YSIxXAdM0fMwqfTpt3gZBwHVJHstbq8Rpw6eSxvGp5bZCVuK7x0dURfEuZBvgZDZD";
+  const pixelId = "1886321232124577"; // substitua aqui com seu pixel ID
 
   const body = {
     data: [
